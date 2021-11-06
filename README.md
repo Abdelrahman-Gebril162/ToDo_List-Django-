@@ -4,7 +4,7 @@ A Simple ToDo list app. you can put your tasks on it and after finishing, you ca
 ## Requirements
 1. VSCode (editor) or other.
 2. download python SDK
-3. Open CMD and install django framework pip install django
+3. Open CMD and install django framework `pip install django`
 
 ## Make Your Project Working
 1. Clone the project `git clone https://github.com/abdo-giprel/ToDo_List-Django-.git`. 
